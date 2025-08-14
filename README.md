@@ -26,7 +26,7 @@ Git
 Сборка и запуск
 
 Убедитесь, что установлен Go 1.23.10.
-Клонируйте репозиторий: git clone <...>.
+Клонируйте репозиторий: git clone <https://github.com/ButyrinIA/taskapi>.
 Перейдите в директорию проекта: cd taskapi.
 Инициализируйте Go-модуль: go mod init github.com/ButyrinIA/taskapi.
 Соберите приложение: go build -o taskapi cmd/api/main.go.
